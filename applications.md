@@ -1,6 +1,6 @@
-What is the actual physical process that is allowing the Raspberry Pi to sense the environment?
-The actual physical process is that the environment affects the properties of a material in the sensor, producing the electrical signal. The Raspberry Pi detects and interprets that signal to "sense" the environment, in other words, get a feel for it.
-What are some environmental factors that might influence the performance of these sensors?
-Limit switches can be affected by dust or dirt, moisture, temperatures, and strong vibrations, which can block, corrode, or wear out the switch, ultimately leading to mechanical failure. Ultreasonic sensors can be affected by temperature and humidity, which alter the speed of sound, as well as wind, soft/slanted surfaces, and nearby objects, which can detect or absorb the sound, resulting in inaccurate readings.
-What role does coding play in this process?
-Without coding, the Raspberry Pi would see raw electrical signals but wouldn't know what they mean or what to do. Coding is the brain that interprets and acts on the sensor data. Similarly to us, we intake information, we understand and transform it into actions, just like coding does to the raspberry pie.
+1. What is the actual physical process that is allowing the Raspberry Pi to sense the environment?
+    The actual physical process is that the environment affects the properties of a material in the sensor, producing the electrical signal. The Raspberry Pi detects and interprets that signal to "sense" the environment, in other words, get a feel for it.
+2. What are some environmental factors that might influence the performance of these sensors?
+    Limit switches can be affected by dust or dirt, moisture, temperatures, and strong vibrations, which can block, corrode, or wear out the switch, ultimately leading to mechanical failure. Ultreasonic sensors can be affected by temperature and humidity, which alter the speed of sound, as well as wind, soft/slanted surfaces, and nearby objects, which can detect or absorb the sound, resulting in inaccurate readings.
+3. What role does coding play in this process?
+    Without coding, the Raspberry Pi would see raw electrical signals but wouldn't know what they mean or what to do. Coding is the brain that interprets and acts on the sensor data. Similarly to us, we intake information, we understand and transform it into actions, just like coding does to the raspberry pie.
